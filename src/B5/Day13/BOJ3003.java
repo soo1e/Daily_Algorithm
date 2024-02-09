@@ -2,6 +2,9 @@ package B5.Day13;
 
 import java.util.Scanner;
 
+
+// Todo 반복문, 배열으로 풀어보기
+
 public class BOJ3003 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

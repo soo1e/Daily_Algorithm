@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// Todo 배열로 풀어보기
 public class BOJ5597 {
     public static void main(String[] args) {
         List<Integer> students = new ArrayList<Integer>();

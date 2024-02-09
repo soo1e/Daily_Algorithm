@@ -9,5 +9,6 @@ public class BOJ11718 {
             String str = scanner.nextLine();
             System.out.println(str);
         }
+
     }
 }
