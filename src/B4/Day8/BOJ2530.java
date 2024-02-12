@@ -3,6 +3,8 @@ package B4.Day8;
 import java.util.Scanner;
 
 public class BOJ2530 {
+
+    // Todo : 조건문으로 풀어보기
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int A = scanner.nextInt();
@@ -10,6 +12,8 @@ public class BOJ2530 {
         int C = scanner.nextInt();
 
         int D = scanner.nextInt();
+
+        // 초 -> 분 -> 시
 
         C = C + D;
 

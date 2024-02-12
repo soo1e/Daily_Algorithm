@@ -7,13 +7,13 @@ public class BOJ11945 {
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt();
         int M = scanner.nextInt();
-
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < M; j++) {
-                String str = scanner.nextLine();
-                StringBuffer sb = new StringBuffer(str);
-                String reversedStr = sb.reverse().toString();
-                System.out.println(reversedStr);
+        if (M>0) {
+            for (int i = 0; i < N; i++) {
+                char[] text = scanner.next().toCharArray();
+                for (int j = M-1; j>=0; j--) {
+                    System.out.print(text[j]);
+                }
+                System.out.println();
             }
         }
     }

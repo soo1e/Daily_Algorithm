@@ -159,3 +159,7 @@ J
 src/B4/Day14/BOJ11948.java,a/1/a18caafd192959bc90030981a79f82a296465c2b
 I
 src/B4/Day15/BOJ5575.java,c/d/cddeb86eef9bc746c88be5b1a023d48864d334b6
+I
+src/B4/Day11/BOJ1264.java,8/6/86e9e7d709e821b1863383bc9b4d4293ef100aca
+J
+src/B4/Day15/BOJ24723.java,8/d/8dddd040ccf5d9e271bf9b38d11cc7a326f1db3a
