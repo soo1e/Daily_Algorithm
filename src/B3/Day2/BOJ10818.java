@@ -9,7 +9,7 @@ public class BOJ10818 {
 
         int[] arr = new int[N];
 
-        int min = 1000000;
+        int min = 1000000; // Integer.MAX_VALUE
         int max = -1000000;
 
         for (int i = 0; i < N; i++) {
