@@ -7,10 +7,15 @@ public class BOJ2442 {
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt();
 
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < ; j++) {
-                
+        // 상단 부분 별 찍기
+        for (int i = 1; i <= N; i++) {
+            for (int j = 1; j <= N - i; j++) {
+                System.out.print(" ");
             }
+            for (int k = 1; k <= 2 * i - 1; k++) {
+                System.out.print("*");
+            }
+            System.out.println();
         }
     }
 }
