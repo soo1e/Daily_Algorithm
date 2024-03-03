@@ -219,3 +219,5 @@ H
 src/B3/Day9/BOJ5086.java,f/1/f15dd3146d2f7d08d2af1de688bee9b548055687
 H
 src/B3/Day7/BOJ2442.java,9/8/98cb77b56656e37f98f227dd79cf5ce335a6fecb
+I
+src/B3/Day8/BOJ11719.java,9/9/99e10d4400bb251b8886faac1aec3c27b40ed44b
