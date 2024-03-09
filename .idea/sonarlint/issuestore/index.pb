@@ -275,3 +275,9 @@ I
 src/B3/Day24/BOJ2875.java,1/1/114d9a10fb61a33b00f7ac201c05ade0a8f1a6a4
 I
 src/B3/Day24/BOJ2935.java,1/0/10a6c2c9027132db766c532bf77cf757035ea824
+I
+src/B3/Day25/BOJ2476.java,5/7/57f8e3281fc65e457aea690f9e2f7115dffcf933
+I
+src/B3/Day25/BOJ2506.java,c/f/cf80d585678ab4dc910d0680877ebc723ab59cee
+I
+src/B3/Day26/BOJ1547.java,9/e/9efba4efd80d1b4c5a13c96e9816c767a5210a7b
