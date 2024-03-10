@@ -2,6 +2,9 @@ package B3.Day25;
 
 import java.util.Scanner;
 
+// 헷갈림
+// 다시 풀어보기
+
 public class BOJ2506 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
